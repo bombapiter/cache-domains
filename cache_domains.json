@@ -1,6 +1,11 @@
 {
 	"cache_domains": [
 		{
+			"name": "genshin",
+			"description": "CDN for Genshin",
+			"domain_files": ["genshin.txt"]
+		},		
+		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
 			"domain_files": ["arenanet.txt"]
