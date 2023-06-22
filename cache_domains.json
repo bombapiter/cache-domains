@@ -1,5 +1,10 @@
 {
 	"cache_domains": [
+        	{
+            		"name": "bsg",
+			"description": "CDN for Battle State Games, Tarkov",
+            		"domain_files": ["bsg.txt"]
+	        },		
 		{
 			"name": "genshin",
 			"description": "CDN for Genshin",
